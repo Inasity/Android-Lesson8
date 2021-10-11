@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BPS-Internship/BPS-Syntax-Lessons/Android-Lessons/Lesson8/andfun-kotlin-mars-real-estate-Starter-Code/app/src/main/res/layout/fragment_detail.xml" value="0.2692502532928065" />
+        <entry key="..\:/BPS-Internship/BPS-Syntax-Lessons/Android-Lessons/Lesson8/andfun-kotlin-mars-real-estate-Starter-Code/app/src/main/res/layout/fragment_overview.xml" value="0.33" />
+        <entry key="..\:/BPS-Internship/BPS-Syntax-Lessons/Android-Lessons/Lesson8/andfun-kotlin-mars-real-estate-Starter-Code/app/src/main/res/layout/grid_view_item.xml" value="0.16084093211752787" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
